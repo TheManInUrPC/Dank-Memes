@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import wheelsunh.user.*;
 
 public main{
   public static void main(String[] args)
