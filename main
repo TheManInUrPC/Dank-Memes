@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public main{
   public static void main(String[] args)
   {
@@ -8,6 +10,11 @@ public main{
     double a;
     double b;
     double c;
+    
+    Scanner keyboard = new Scanner(System.in);
+    
+    System.out.println("Enter your answer: ");
+    a = keyboard.nextInt();
     
     
   }  
